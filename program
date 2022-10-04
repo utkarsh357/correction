@@ -1,7 +1,7 @@
 #include <bits/stdc++.h> 
 vector<int> findSpans(vector<int> &price) {
     // Write your code here.
-    
+  ??ery  
     stack<int>s;
     vector<int>arr;
     s.push(-1);
